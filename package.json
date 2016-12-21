@@ -1,0 +1,19 @@
+{
+  "name": "travis-demo",
+  "version": "1.0.0",
+  "description": "just test how travis works",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LowryTang/travis-demo.git"
+  },
+  "author": "Lowry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LowryTang/travis-demo/issues"
+  },
+  "homepage": "https://github.com/LowryTang/travis-demo#readme"
+}
